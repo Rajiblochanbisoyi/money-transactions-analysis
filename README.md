@@ -1,8 +1,6 @@
 # money-transactions-analysis
 whole 1 year money transactions data analysis thorugh power bi dashboard
 
-![AltText]("C:\Users\Rajib lochan bisoyi\OneDrive\Pictures\Screenshots\Screenshot 2026-06-04 172955.png")
-
 
 # 💳 Money Transactions Analysis Dashboard
 
