@@ -1,6 +1,9 @@
 # money-transactions-analysis
 whole 1 year money transactions data analysis thorugh power bi dashboard
 
+![Dashboard](C:\Users\Rajib lochan bisoyi\OneDrive\Pictures\Screenshots)
+
+
 # 💳 Money Transactions Analysis Dashboard
 
 This project is a **Money Transactions Analysis Dashboard** built to analyze financial transaction data and visualize key insights such as total transactions, transaction amounts, and behavioral patterns across months and days.
