@@ -1,6 +1,7 @@
 # money-transactions-analysis
 whole 1 year money transactions data analysis thorugh power bi dashboard
 
+<img width="1165" height="655" alt="Screenshot 2026-06-04 172955" src="https://github.com/user-attachments/assets/c38d49a9-f604-471e-a125-5e17c2323632" />
 
 # 💳 Money Transactions Analysis Dashboard
 
